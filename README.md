@@ -9,4 +9,15 @@
     <img src="https://img.shields.io/static/v1?label=Contact&color=0d0d0d&message=contact@wycha.me">
 </div>
 <h2 align= center>Projects</h2>
-<p><strong>Not yet...<strong/></p>
+<p>Not yet...</p>
+<h2 align= center>Learning</h2>
+<p align= center>Programming language:</p>
+
+<div align= center>
+    <img src="https://cdn.discordapp.com/attachments/805544480043696138/889491205606490152/html.png" height="50px" style="max-width: 100%;"
+    alt="Logo HTML"> 
+    <img src="https://cdn.discordapp.com/attachments/805544480043696138/889491197079478302/css.png" height="50px" style="max-width: 100%;"
+    alt="Logo CSS">
+    <img src="https://cdn.discordapp.com/attachments/805544480043696138/889491189764591616/js.png" height="50px" style="max-width: 100%;"
+    alt="Logo JS">
+</div>
