@@ -1,17 +1,15 @@
-<h1>Sobre mí</h1>
-<p>Estoy aprendiendo Frontend, mi meta es convertirme en FullStack.</p>
+<h1>About me</h1>
+<p>I'm learning Frontend, my goal is to become Full Stack.</p>
 
-<p>Me encanta todo lo que tenga que ver con la informática💻</p>
+<p>I love computing</p>
 <div>
-    <a href="https://twitter.com/wycha_" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=wychaa&color=0d0d0d&labelColor=222222&label=Vistas al perfil&style=flat">
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=wychaa&label=Views of profile&color=0d0d0d&labelColor=222222&style=flat">
 </div>
 <div>
-    <img src="https://img.shields.io/static/v1?label=Contacto&message=contact@wycha.me&color=0d0d0d&labelColor=222222">
+    <img src="https://img.shields.io/static/v1?label=Contact&message=contact@wycha.me&color=0d0d0d&labelColor=222222">
 </div>
-<h2 align= center>Proyectos</h2>
-<p><strong>Todavía no...<strong/></p>
+<h2 align= center>Projects</h2>
+<p><strong>Not yet...<strong/></p>
 
 
 
