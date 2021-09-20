@@ -1,7 +1,7 @@
 <h1>About me</h1>
 <p>I'm learning Frontend, my goal is to become Full Stack.</p>
 
-<p>I love computing</p>
+<p>I love computing💻</p>
 <div>
     <img src="https://komarev.com/ghpvc/?username=wychaa&label=Views of profile&color=0d0d0d&labelColor=222222&style=flat">
 </div>
