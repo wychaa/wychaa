@@ -1,7 +1,7 @@
 ## BIO
 I'm learning Frontend.
 
-[![Twitter](https://twitter.com/wycha_)
+[Twitter](https://twitter.com/wycha_)
 
 
 
