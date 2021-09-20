@@ -3,13 +3,13 @@
 
 <p>I love computing💻</p>
 <div>
-    <img src="https://komarev.com/ghpvc/?username=wychaa&color=dc143c&style=flat-square)&label=Views of profile&color=0d0d0d&labelColor=222222&style=flat">
+    <img src="https://hit.yhype.me/github/profile?user=wychaa&label=Views of profile&color=0d0d0d&labelColor=222222&style=flat">
 </div>
 <div>
     <img src="https://img.shields.io/static/v1?label=Contact&message=contact@wycha.me&color=0d0d0d&labelColor=222222">
 </div>
 <h2 align= center>Projects</h2>
 <p><strong>Not yet...<strong/></p>
-
+!(https://hit.yhype.me/github/profile?user_id=78289728)
 
 
