@@ -1,4 +1,4 @@
-<h1>BIO</h1>
+<h1>Sobre mí</h1>
 <p>Estoy aprendiendo Frontend, mi meta es convertirme en FullStack.</p>
 
 <p>Me encanta todo lo que tenga que ver con la informática💻</p>
@@ -10,7 +10,8 @@
 <div>
     <img src="https://img.shields.io/static/v1?label=Contacto&message=contact@wycha.me&color=0d0d0d&labelColor=222222">
 </div>
-<h2 align= center>Projects</h2>
+<h2 align= center>Proyectos</h2>
+<p><strong>Todavía no...<strong/></p>
 
 
 
