@@ -1,7 +1,7 @@
 <h1>About me</h1>
 <p>I'm learning Frontend, my goal is to become Full Stack.</p>
 
-<p>I love programming💻</p>
+<p>💻 I love programming 📍 I'm 15 years old 🔍 From Uruguay</p>
 <div>
     <img src="https://komarev.com/ghpvc/?username=wychaa&color=0d0d0d">
 </div>
