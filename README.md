@@ -4,7 +4,7 @@
 <p>Me encanta todo lo que tenga que ver con la informática💻</p>
 <div>
     <a href="https://twitter.com/wycha_" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/wycha_?&color=0d0d0d&labelColor=222222&label=Twitter&style=flat">
+        <img src="https://komarev.com/ghpvc/?username=wychaa&color=0d0d0d&labelColor=222222&label=Vistas al perfil&style=flat">
     </a>
 </div>
 <div>
