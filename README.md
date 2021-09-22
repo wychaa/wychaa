@@ -1,4 +1,4 @@
-![q](https://komarev.com/ghpvc/?username=wychaa&label=Views&color=ab11c6)
+![q](https://komarev.com/ghpvc/?username=wychaa&label=Views&color=d1209e)
 <div align= center>
   <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://cdn.discordapp.com/attachments/864514803715932210/890296995770671154/presentation.png#" alt="presentation"></a>
 </div>
